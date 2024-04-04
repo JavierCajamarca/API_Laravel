@@ -8,11 +8,8 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
 - [PostgreSQL version 16](https://www.postgresql.org/download/windows/)
 ## Instalación
   
-1.- Clonar el repositorio: git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/JavierCajamarca/API_Laravel.git)
-
-2.- Copiar el archivo de configuración de ejemplo: cp .env.example .env
-
-3.- Configurar la base de datos en el archivo .env
+- Clonar el repositorio: git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/JavierCajamarca/API_Laravel.git)
+- Configurar la base de datos en el archivo .env
 
     Nombre BD: postgre  
     password:  1234

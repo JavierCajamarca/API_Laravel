@@ -11,10 +11,10 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
 - Clonar el repositorio: git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/JavierCajamarca/API_Laravel.git)
 - Configurar la base de datos en el archivo .env
 
-    Nombre BD: postgre  
-    password:  1234
-- Ejecutar las migraciones: php artisan migrate
-- Iniciar el servidor de desarrollo: ´php artisan serve´
+    Nombre BD: `postgre` 
+    password:  `1234`
+- Ejecutar las migraciones: `php artisan migrate`
+- Iniciar el servidor de desarrollo: `php artisan serve`
 
 
 ## Uso de la API

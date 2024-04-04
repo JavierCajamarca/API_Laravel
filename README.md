@@ -92,7 +92,7 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
     DELETE /api/articulos/{id}    //  http://127.0.0.1:8000/api/articulo/5
 
 
-## Authors
+## Autor
 [https://github.com/JavierCajamarca](https://github.com/JavierCajamarca)
 
 

@@ -17,14 +17,15 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
 
 3.- Configurar la base de datos en el archivo .env
 
-    En este caso fue se creo la Base de datos postgre con la password 1234
+    Base de datos: postgre  
+    password:  1234
 
 4.- Ejecutar las migraciones: php artisan migrate
 
 5.- Iniciar el servidor de desarrollo: php artisan serve
 
 
-- Uso de la API
+## Uso de la API
 
 1.- Obtener todos los artículos
 

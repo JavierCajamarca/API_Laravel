@@ -3,12 +3,9 @@
 Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los artículos, incluyendo su título, descripción, precio y disponibilidad.
 
 ## Configuración del Proyecto
-
-1.- PHP version 8.0.30
-
-2.- Composer version 2.7.2
-
-3.- Base de datos PostgreSQL
+- [PHP version 8.0.30](https://www.php.net/downloads.php)
+- [Composer version 2.7.2](https://getcomposer.org/download/)
+- [PostgreSQL version 16](https://www.postgresql.org/download/windows/)
 ## Instalación
   
 1.- Clonar el repositorio: git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/JavierCajamarca/API_Laravel.git)

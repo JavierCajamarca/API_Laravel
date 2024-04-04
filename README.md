@@ -63,10 +63,11 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
         "disponibilidad": true
         }
 - Obtener un artículo por ID
-  `GET /api/articulos/{id}  //  GET http://127.0.0.1:8000/api/articulo/3`
-4.-Actualizar un artículo existente
+  
+    `GET /api/articulos/{id}  //  GET http://127.0.0.1:8000/api/articulo/3`
+-Actualizar un artículo existente
 
-        PUT /api/articulos/{id}  //  PUT http://127.0.0.1:8000/api/articulo/2
+    `PUT /api/articulos/{id}  //  PUT http://127.0.0.1:8000/api/articulo/2`
 
         {
         "titulo": "Bocina",
@@ -74,9 +75,8 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
         "precio": 135500.09,
         "disponibilidad": true
         }
-5.- Eliminar un artículo
-
-        DELETE /api/articulos/{id}    //  http://127.0.0.1:8000/api/articulo/5
+- Eliminar un artículo
+    `DELETE /api/articulos/{id}    //  http://127.0.0.1:8000/api/articulo/5`
 ## Autor
 [https://github.com/JavierCajamarca](https://github.com/JavierCajamarca)
 

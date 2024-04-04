@@ -14,7 +14,7 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
     Nombre BD: postgre  
     password:  1234
 - Ejecutar las migraciones: php artisan migrate
-- Iniciar el servidor de desarrollo: php artisan serve
+- Iniciar el servidor de desarrollo: ´php artisan serve´
 
 
 ## Uso de la API

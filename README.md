@@ -21,10 +21,10 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
 
 - Obtener todos los artículos
 
-        GET /api/articulos   //  GET http://127.0.0.1:8000/api/articulo
+    `GET /api/articulos   //  GET http://127.0.0.1:8000/api/articulo`
 - Crear un nuevo artículo
 
-        POST /api/articulos  // POST http://127.0.0.1:8000/api/articulo
+    `POST /api/articulos  // POST http://127.0.0.1:8000/api/articulo`
     
         body de la solicitud 
         articulo 1

@@ -5,6 +5,7 @@ Este proyecto Laravel es una API RESTful para la gestión de artículos. Permite
 ## Configuración del Proyecto
 - [PHP version 8.0.30](https://www.php.net/downloads.php)
 - [Composer version 2.7.2](https://getcomposer.org/download/)
+- [Laravel version 9.52.16](https://laravel.com/docs/9.x)
 - [PostgreSQL version 16](https://www.postgresql.org/download/windows/)
 ## Instalación
   
